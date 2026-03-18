@@ -13,4 +13,4 @@
 
 ## Project versions:
 - v0.1 (March 18, 2026) 
-	- QR code scanning, display text, open website 
+	- QR code scanning, display text, open website. 
