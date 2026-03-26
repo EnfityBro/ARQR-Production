@@ -13,7 +13,7 @@
 
 ## Project versions:
 - v0.1 (March 18, 2026) 
-	Features: QR code scanning, display text, open website. 
+	- Features: QR code scanning, display text, open website. 
 - v0.2 (March 26, 2026) 
-	Features: display texts and images in AR menu, AR mode. 
-	Fixes: QR code scanning panel, QR code scanning logic. 
+	- Features: display texts and images in AR menu, AR mode. 
+	- Fixes: QR code scanning panel, QR code scanning logic. 
