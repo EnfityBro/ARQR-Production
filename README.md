@@ -17,3 +17,7 @@
 - v0.2 (March 26, 2026) 
 	- Features: display texts and images in AR menu, AR mode. 
 	- Fixes: QR code scanning panel, QR code scanning logic. 
+
+---
+**© Borodkin Makar, 2026. All rights reserved.** 
+<br>The detailed license terms are in the [LICENSE](https://github.com/EnfityBro/ARQR/tree/main?tab=License-1-ov-file) file. 
